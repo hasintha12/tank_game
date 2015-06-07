@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cell.jpg</Source>
+      <Name>cell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\cell.xnb</Output>
+      <Time>2013-07-27T18:32:16+05:30</Time>
+    </Item>
+    <Item>
+      <Source>lifepack.jpg</Source>
+      <Name>lifepack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\lifepack.xnb</Output>
+      <Time>2013-07-27T20:11:58+05:30</Time>
+    </Item>
+    <Item>
+      <Source>coin.jpg</Source>
+      <Name>coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\coin.xnb</Output>
+      <Time>2013-07-27T20:22:42+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank_down.png</Source>
+      <Name>tank_down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\tank_down.xnb</Output>
+      <Time>2013-07-27T21:58:16+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank_left.png</Source>
+      <Name>tank_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\tank_left.xnb</Output>
+      <Time>2013-07-27T21:58:16+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank_right.png</Source>
+      <Name>tank_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\tank_right.xnb</Output>
+      <Time>2013-07-27T21:58:16+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank_up.png</Source>
+      <Name>tank_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\tank_up.xnb</Output>
+      <Time>2013-07-27T21:58:16+05:30</Time>
+    </Item>
+    <Item>
+      <Source>brick_texture.jpg</Source>
+      <Name>brick_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\brick_texture.xnb</Output>
+      <Time>2013-07-27T22:44:00+05:30</Time>
+    </Item>
+    <Item>
+      <Source>stone_texture.jpg</Source>
+      <Name>stone_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\stone_texture.xnb</Output>
+      <Time>2013-07-27T22:47:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>water_texture.jpg</Source>
+      <Name>water_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\water_texture.xnb</Output>
+      <Time>2013-07-27T22:47:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>brick_texture_25.jpg</Source>
+      <Name>brick_texture_25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\brick_texture_25.xnb</Output>
+      <Time>2013-07-27T22:54:44+05:30</Time>
+    </Item>
+    <Item>
+      <Source>brick_texture_50.jpg</Source>
+      <Name>brick_texture_50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\brick_texture_50.xnb</Output>
+      <Time>2013-07-27T22:54:44+05:30</Time>
+    </Item>
+    <Item>
+      <Source>brick_texture_75.jpg</Source>
+      <Name>brick_texture_75</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\brick_texture_75.xnb</Output>
+      <Time>2013-07-27T22:54:44+05:30</Time>
+    </Item>
+    <Item>
+      <Source>rocket_down.png</Source>
+      <Name>rocket_down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\rocket_down.xnb</Output>
+      <Time>2013-07-27T23:34:24+05:30</Time>
+    </Item>
+    <Item>
+      <Source>rocket_left.png</Source>
+      <Name>rocket_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\rocket_left.xnb</Output>
+      <Time>2013-07-27T23:34:24+05:30</Time>
+    </Item>
+    <Item>
+      <Source>rocket_up.png</Source>
+      <Name>rocket_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\rocket_up.xnb</Output>
+      <Time>2013-07-27T23:34:24+05:30</Time>
+    </Item>
+    <Item>
+      <Source>rocket_right.png</Source>
+      <Name>rocket_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\rocket_right.xnb</Output>
+      <Time>2013-07-27T23:34:24+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\SpriteFont1.xnb</Output>
+      <Time>2013-07-28T02:27:26+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\SpriteFont2.xnb</Output>
+      <Time>2013-07-28T02:27:26+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\SpriteFont3.xnb</Output>
+      <Time>2013-07-28T02:57:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont4.spritefont</Source>
+      <Name>SpriteFont4</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\SpriteFont4.xnb</Output>
+      <Time>2013-07-28T02:57:00+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont5.spritefont</Source>
+      <Name>SpriteFont5</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\SpriteFont5.xnb</Output>
+      <Time>2013-07-28T02:56:36+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTestContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTestContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>E:\Academic\L2-5-Semester4\Programming Challenge 2\tank game\test10\TankTest\TankTest\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-03T22:24:00.2720097+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
